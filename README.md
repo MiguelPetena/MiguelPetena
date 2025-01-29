@@ -1,11 +1,11 @@
-<p align="left">Olá meu Nome é Miguel Petená</p>
+<h1 align="center">Olá meu Nome é Miguel Petená</h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelPetena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelPetena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&order=2" height="250" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelPetena&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelPetena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelPetena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MiguelPetena&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="340" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -72,9 +72,5 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" alt="windows8 logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/MiguelPetena/MiguelPetena/output/snake.svg" alt="Snake animation" />
 
 ###
